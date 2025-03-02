@@ -1,7 +1,0 @@
-getgenv().getexecutorname = function()
-    return "SteakV2"
-end
-
-getgenv().getexecutorversion = function()
-    return "2.0.0"
-end
