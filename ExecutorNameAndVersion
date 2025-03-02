@@ -1,0 +1,7 @@
+getgenv().getexecutorname = function()
+    return "Steak"
+end
+
+getgenv().getexecutorversion = function()
+    return "2.0.0"
+end
