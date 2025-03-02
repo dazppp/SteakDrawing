@@ -1,5 +1,5 @@
 getgenv().getexecutorname = function()
-    return "Steak"
+    return "SteakV2"
 end
 
 getgenv().getexecutorversion = function()
